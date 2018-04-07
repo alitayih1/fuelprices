@@ -1,0 +1,17 @@
+CREATE TABLE GasPrice (
+    _id         INTEGER NOT NULL
+                        PRIMARY KEY AUTOINCREMENT
+                        UNIQUE,
+    country     TEXT    NOT NULL,
+    currency    TEXT    NOT NULL,
+    gas_type    TEXT    NOT NULL,
+    normal      INTEGER NOT NULL
+                        DEFAULT 1,
+    price       REAL,
+    price_neto  REAL,
+    charge      REAL,
+    excise_duty REAL,
+    tax         REAL,
+    tax_co2     INTEGER,
+    updated     TEXT
+);

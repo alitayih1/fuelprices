@@ -1,0 +1,60 @@
+{
+    "Chile": {
+        "95": {
+            "normal": {
+                "price": "793.2",
+                "price_neto": "500.1",
+                "charge": "100.2",
+                "excise_duty": "40.99",
+                "tax": "116.000",
+                "tax_co2": "60.9",
+                "updated": "2018-04-02"
+            }
+        },
+        "100": {
+            "normal": {
+                "price": "905",
+                "price_neto": "600.1",
+                "charge": "200.2",
+                "excise_duty": "60.99",
+                "tax": "120.000",
+                "tax_co2": "70.9",
+                "updated": "2018-04-02"
+            }
+        },
+        "currency": "Chilean Peso",
+        "diesel": {
+            "normal": {
+                "price": "534.60",
+                "price_neto": "400.1",
+                "charge": "100.2",
+                "excise_duty": "30.99",
+                "tax": "110.000",
+                "tax_co2": "50.9",
+                "updated": "2018-04-02"
+            }
+        },
+        "lpg": {
+            "normal": {
+                "price": "450.4",
+                "price_neto": "200.1",
+                "charge": "50.2",
+                "excise_duty": "10.99",
+                "tax": "100.000",
+                "tax_co2": "50.9",
+                "updated": "2018-04-02"
+            }
+        },
+        "fl": {
+            "normal": {
+                "price": "50.1",
+                "price_neto": "30.1",
+                "charge": "10.2",
+                "excise_duty": "5.99",
+                "tax": "9.000",
+                "tax_co2": "1.9",
+                "updated": "2018-04-02"
+            }
+        }
+    }
+}
